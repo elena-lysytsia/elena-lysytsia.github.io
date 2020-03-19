@@ -170,7 +170,7 @@ li {
 .header .header-image {
     position: absolute;
     top: 18px;
-    left: 55%;
+    left: 54%;
     -webkit-transform: translate(-50%, 0);
     -ms-transform: translate(-50%, 0);
     transform: translate(-50%, 0);
@@ -462,7 +462,7 @@ li {
     background-position: 20px 17px;
     font-size: 18px;
     color: #3b3944;
-    width: 96%
+    width: 100%;
 }
 
 @media (max-width: 768px) {
@@ -562,7 +562,7 @@ li {
     background-position: 73% 20px;
     background-repeat: no-repeat;
     background-size: 50%;
-    margin-bottom: 125px
+    padding-bottom: 125px
 }
 
 @media (max-width: 768px) {
